@@ -138,6 +138,7 @@ GameObject:
   - component: {fileID: 7325993077497050286}
   - component: {fileID: 8444998099504785112}
   - component: {fileID: 2264909689349015162}
+  - component: {fileID: 3119251327242579133}
   m_Layer: 0
   m_Name: EnemyRoot
   m_TagString: Untagged
@@ -190,6 +191,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.51999015, z: 1}
   m_Center: {x: 0, y: 0.29936525, z: 0}
+--- !u!114 &3119251327242579133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 789317591930639321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c677e8d4f13169549b3479a6378a2eb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player: {fileID: 0}
+  ChaseSpeed: 5
 --- !u!1 &4530291217532312790
 GameObject:
   m_ObjectHideFlags: 0

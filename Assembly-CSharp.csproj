@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\EnemyReturn.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Scripts\AI.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Epic Toon FX\Prefabs\Environment\Water\Other" />
      <Folder Include="Assets\Epic Toon FX\Sound" />
